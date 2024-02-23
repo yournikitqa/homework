@@ -1,0 +1,59 @@
+/* 
+body {
+    font-size: 40px;
+}
+
+.block, .inline {
+    background: #afeeee;
+}
+
+.block {
+    padding: 30px;
+    margin: 30px;
+}
+
+.sverhu-ne-trogat {
+}
+
+.block {
+    
+}
+
+.inline {
+    
+}
+
+.img {
+    
+} 
+*/
+
+body {
+    font-size: 40px;
+}
+
+.block, .inline {
+    background: #afeeee;
+}
+
+.block {
+    padding: 30px;
+    margin: 30px;
+}
+
+.sverhu-ne-trogat {
+}
+
+.block {
+    display: inline-block;
+    width: 400px;
+}
+
+.inline {
+    display: none;
+    
+}
+
+.img {
+    display: block;
+}

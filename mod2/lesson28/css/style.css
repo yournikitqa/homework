@@ -1,0 +1,33 @@
+/* Приоритет 10 */
+
+.task-1 {
+    font-family: "Open Sans",sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 30px;
+    font-style: italic;
+}
+
+.task-2 {
+    text-decoration: line-through;
+}
+
+.task-3 {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.task-4 {
+    word-wrap: 30px;
+    word-spacing: 30px;
+    color:#530b96;
+    text-decoration: overline;
+    text-decoration-style: wavy;
+    text-shadow: 2px 2px 4px #424242;
+}
+
+.task-5 {
+    letter-spacing: 5px;
+    text-decoration: underline;
+    text-decoration-style: double;
+}

@@ -1,0 +1,62 @@
+/* 
+body {
+    font-size: 40px;
+}
+
+.block, .inline {
+    background: #afeeee;
+}
+
+.block {
+    padding: 30px;
+    margin: 30px;
+}
+
+.sverhu-ne-trogat {
+}
+
+.block {
+    
+}
+
+.inline {
+    
+}
+
+.img {
+    
+} 
+*/
+
+body {
+    font-size: 40px;
+}
+
+.block, .inline {
+    background: #afeeee;
+}
+
+.block {
+    padding: 30px;
+    margin: 30px;
+}
+
+.sverhu-ne-trogat {
+}
+
+.block {
+    /* opacity: 1;
+    visibility: hidden; */
+    width: 400px;
+    height: 200px;
+    overflow: auto;
+}
+
+.inline {
+    opacity: .5;
+    
+}
+
+.img {
+    opacity: .5;
+} 
