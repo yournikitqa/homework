@@ -1,0 +1,26 @@
+body {
+    background: #ffffff;
+}
+
+section {
+    text-align: center;
+    margin: 50px;
+    min-height: 100px;
+    max-height: 1000px;
+}
+
+img {
+    border: 5px solid #000000;
+    box-shadow: 10px 10px 40px #58585885, -10px -10px 40px #58585885;
+}
+
+.text {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+hr {
+    background: linear-gradient(90deg, #ffffff, #1ffa029f, #ffffff);
+    height: 5px;
+    border: none;
+}
